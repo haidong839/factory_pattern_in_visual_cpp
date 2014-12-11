@@ -34,9 +34,7 @@ private:
 
 public:
 	AnimalFactory(){;};
-	~AnimalFactory() { 		
-		delete this; 
-	}
+	~AnimalFactory() {;}
 	IAnimal *CreateAnimal(System::String^  animalName);
 };
 
