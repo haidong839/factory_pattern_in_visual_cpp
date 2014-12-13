@@ -1,4 +1,4 @@
 visual_cpp_exercise
 ===================
 
-visual c++ exercises
+visual c++ version
